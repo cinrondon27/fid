@@ -1,0 +1,41 @@
+body {
+        background-color: #CDEEFF;
+        margin : 0 10%;
+        font-family: "advent pro";
+    }
+    
+    h1 {
+        text-align: center;
+        font-family: "advent pro";
+        font-weight: bold;
+        border-bottom: double #57b1dc;
+        margin-top: 30px;
+    }
+    
+    h2 {
+        font-size: 2em;
+        color: #2C5896;
+    }
+
+    h3{
+        text-align: center;
+        font-family: "advent pro";
+        font-weight: bolder;
+        font-size: 2.5em;
+    }
+
+    h4{
+        text-align: center;
+        font-family: "advent pro";
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+    footer { 	    
+        border-top: double #57b1dc;  
+        text-align: center;  padding-top: 1em; } 
+    footer img {  width: 60px;  height: 60px;  
+                    margin-left: .5em;  margin-right: .5em; } 
+    button:hover {
+    color: black;
+    background-color: white;
+    }
